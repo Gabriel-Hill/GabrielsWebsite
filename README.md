@@ -87,19 +87,20 @@
 Evaluated pay practices to identify discrepancies, ensuring compliance with state and federal regulations.
 Led the implementation of a company-wide compensation plan with new state-specific labor laws, including sick time policies and minimum wage increases.
 </p>
-            </div>
-            <div class="card">
+</div>
+<div class="card">
                 <h3>Compensation Analyst - Lockton </h3>
 		<p>Location: Remote </p>
                 <p>Role: Collaborated with consultants to support various projects gathering, organizing, and analyzing data
 Administered various client compensation merit, and bonus programs in congruent with client agreements.
 Assisted with impact analysis assessment of current compensation levels and pay mix.
 </div>
-            <div class="card">
+<div class="card">
                 <h3>Benefits Representitive - Lockton</h3>
 		<p>Location: Remote </p>
                 <p>Role: Demonstrated exemplary problem-solving skills: by resolving benefits-related queries during open enrollment for 80+ clients while consistently receiving positive feedback from customers and team members
 Orchestrated cross-functional teamwork: to collaborate with other departments to resolve complex issues 
+</div>
  <div class="card">
                 <h3>HR Assistant - Texas A&M Engineering Experiment Station</h3>
                 <p>Location: College Station, TX</p>
@@ -107,7 +108,7 @@ Orchestrated cross-functional teamwork: to collaborate with other departments to
 Created 11 position titles by forecasting local labor demand, pricing roles with skills on market trends
 
 </p>
-        </div>
+</div>
     </section>
     <section id="education">
         <div class="container">
