@@ -11,110 +11,114 @@
             padding: 0;
             line-height: 1.6;
             color: #333;
-            background-color: #f0f4f8;
+            background-color: #f8fafc;
         }
 
         header {
-            background: linear-gradient(90deg, #4a90e2, #2a3e52);
+            background-color: #1e2a38;
             color: #fff;
-            padding: 20px;
+            padding: 40px 20px;
             text-align: center;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
         header h1 {
+            font-size: 2.8rem;
             margin: 0;
-            font-size: 2.5rem;
         }
 
         header p {
-            margin: 5px 0 0;
             font-size: 1.2rem;
+            margin-top: 10px;
         }
 
         nav {
+            background-color: #ffffff;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 10px 20px;
             display: flex;
             justify-content: center;
-            background: #2a3e52;
-            padding: 10px 0;
+            gap: 15px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
         }
 
         nav a {
-            color: #fff;
-            padding: 10px 20px;
+            color: #1e2a38;
             text-decoration: none;
-            text-transform: uppercase;
             font-weight: bold;
-            font-size: 0.9rem;
+            padding: 10px 15px;
+            border-radius: 5px;
         }
 
         nav a:hover {
-            background: #4a90e2;
-            border-radius: 4px;
-        }
-
-        section {
-            padding: 20px;
+            background-color: #e5e7eb;
         }
 
         .container {
-            max-width: 1100px;
-            margin: auto;
+            max-width: 1200px;
+            margin: 0 auto;
             padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        section:nth-child(even) {
+            background-color: #f1f5f9;
         }
 
         h2 {
-            color: #4a90e2;
-            border-bottom: 2px solid #2a3e52;
-            padding-bottom: 5px;
-            margin-bottom: 15px;
+            font-size: 2.2rem;
+            color: #1e2a38;
+            margin-bottom: 20px;
         }
 
         .card {
-            background: #eef2f5;
-            padding: 15px;
-            margin: 15px 0;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            text-align: left;
         }
 
         .card h3 {
-            margin-top: 0;
-            color: #2a3e52;
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            color: #1e2a38;
         }
 
         ul {
-            list-style-type: none;
+            list-style: none;
             padding: 0;
+            margin: 0;
         }
 
         ul li {
-            background: #d9e4ea;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 4px;
+            background-color: #e5e7eb;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
         }
 
         ul li:hover {
-            background: #c4d4df;
+            background-color: #d1d5db;
         }
 
         footer {
+            background-color: #1e2a38;
+            color: #ffffff;
             text-align: center;
-            padding: 20px;
-            background: #2a3e52;
-            color: #fff;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+            padding: 20px 0;
         }
 
         footer a {
-            color: #4a90e2;
+            color: #66b2ff;
             text-decoration: none;
         }
 
@@ -131,9 +135,12 @@
                 font-size: 1rem;
             }
 
-            nav a {
-                font-size: 0.8rem;
-                padding: 8px 12px;
+            nav {
+                flex-wrap: wrap;
+            }
+
+            .card {
+                margin: 20px 10px;
             }
         }
     </style>
@@ -155,7 +162,7 @@
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <p>Hello! I'm Gabe Hill, a dedicated Compensation Analyst with a Bachelor of Science in Human Resource Development from Texas A&M University. I have a passion for optimizing employee compensation strategies and fostering organizational growth. My expertise lies in problem-solving, where I leverage our company's solutions with a keen awareness of strategic alignment and the competitive landscape. Passionate about supporting and serving in a Human Resources and operations capacity, my goal is to contribute to the comprehensive success of our leadership team through traditional organizational performance plans.</p>
+            <p>Hello! I'm Gabe Hill, a dedicated Compensation Analyst with a Bachelor of Science in Human Resource Development from Texas A&M University. I have a passion for optimizing employee compensation strategies and fostering organizational growth. Let me help your company thrive!</p>
         </div>
     </section>
 
