@@ -15,7 +15,7 @@
         }
 
         header {
-            background-color: #1e2a38;
+            background: linear-gradient(45deg, #1e2a38, #4a5568);
             color: #fff;
             padding: 40px 20px;
             text-align: center;
@@ -53,6 +53,7 @@
 
         nav a:hover {
             background-color: #e5e7eb;
+            transition: background-color 0.3s ease-in-out;
         }
 
         .container {
@@ -85,12 +86,12 @@
             margin: 20px auto;
             max-width: 800px;
             text-align: left;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
         }
 
-        .card h3 {
-            font-size: 1.5rem;
-            margin-bottom: 10px;
-            color: #1e2a38;
+        .card:hover {
+            transform: scale(1.03);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
 
         ul {
@@ -104,10 +105,12 @@
             margin: 10px 0;
             padding: 15px;
             border-radius: 5px;
+            transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
         }
 
         ul li:hover {
             background-color: #d1d5db;
+            transform: scale(1.03);
         }
 
         footer {
@@ -159,14 +162,17 @@
         <a href="#contact">Contact</a>
     </nav>
 
-   <section id="about">
-    <div class="container">
-        <h2>About Me</h2>
-        <p>I am a dedicated and hardworking professional who thrives on achieving both personal and professional goals. As a devoted father. I find immense motivation in setting an example of perseverance, commitment, and balance. My son inspires me every day to be the best version of myself, both at work and in life.</p>
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I am a dedicated and hardworking professional who thrives on achieving both personal and professional goals. As a devoted father, I find immense motivation in setting an example of perseverance, commitment, and balance. My son inspires me every day to be the best version of myself, both at work and in life.</p>
 
-        <p>Outside of my professional endeavors, I am deeply passionate about fitness. I am an avid weightlifter and marathon runner, constantly challenging myself to push boundaries and improve. Whether I’m training for a new personal best in the gym or crossing the finish line of a race, I bring the same level of discipline, resilience, and focus that I apply to my career.</p>
+            <p>Outside of my professional endeavors, I am deeply passionate about fitness. I am an avid weightlifter and marathon runner, constantly challenging myself to push boundaries and improve. Whether I’m training for a new personal best in the gym or crossing the finish line of a race, I bring the same level of discipline, resilience, and focus that I apply to my career.</p>
 
-        <p>I believe in giving my all to everything I do and value hard work, consistency, and a positive outlook. With a strong sense of purpose and drive, I strive to balance my personal aspirations with professional excellence, always keeping my family and goals at the heart of everything I pursue.
+            <p>I believe in giving my all to everything I do and value hard work, consistency, and a positive outlook. With a strong sense of purpose and drive, I strive to balance my personal aspirations with professional excellence, always keeping my family and goals at the heart of everything I pursue.</p>
+        </div>
+    </section>
+
     <section id="experience">
         <div class="container">
             <h2>Experience</h2>
@@ -200,7 +206,6 @@
     <section id="education">
         <div class="container">
             <h2>Education</h2>
-
             <div class="card">
                 <h3>Texas A&M University</h3>
                 <p>Bachelor of Science in Human Resource Development</p>
