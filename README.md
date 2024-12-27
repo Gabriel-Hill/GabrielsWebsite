@@ -140,19 +140,19 @@
     </section>
 
     <section id="experience">
-        <div class="container">
+</div>
             <h2>Experience</h2>
             <div class="card">
                 <h3>Compensation Analyst - indiGO Auto Group</h3>
                 <p>Location: Houston, TX</p>
                 <p>Role: Collaborated with Corporate Board to analyze data, ensuring decision-making aligned with organization goals. Evaluated pay practices to identify discrepancies, ensuring compliance with state and federal regulations. Led the implementation of a company-wide compensation plan with new state-specific labor laws, including sick time policies and minimum wage increases.</p>
- <div class="container">
+</div>
             <h2>Experience</h2>
             <div class="card">
                 <h3>Compensation Analyst - Lockton</h3>
                 <p>Location: Remote</p>
                 <p>Role: Collaborated with consultants to support various projects by gathering, organizing, and analyzing data. Administered various client compensation merit and bonus programs in congruence with client agreements. Assisted with impact analysis assessments of current compensation levels and pay mix.</p>
- <div class="container">
+</div>
             <h2>Experience</h2>
             <div class="card">
                 <h3>Benefits Representative - Lockton</h3>
@@ -166,7 +166,7 @@
     </section>
 
     <section id="education">
-        <div class="container">
+</div>
             <h2>Education</h2>
             <div class="card">
                 <h3>Texas A&M University</h3>
@@ -174,10 +174,9 @@
                 <p>Graduated: December 2023 | GPA: 3.7</p>
             </div>
         </div>
-    </section>
 
     <section id="skills">
-        <div class="container">
+</div>
             <h2>Skills</h2>
             <ul>
                 <li>Compensation Analysis</li>
@@ -191,7 +190,7 @@
     </section>
 
     <section id="contact">
-        <div class="container">
+</div>
             <h2>Contact</h2>
             <p>Email: <a href="mailto:ghilltx12@gmail.com">ghilltx12@gmail.com</a></p>
             <p>Phone: (469) 667-3021</p>
