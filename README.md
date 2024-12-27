@@ -162,7 +162,7 @@
    <section id="about">
     <div class="container">
         <h2>About Me</h2>
-        <p>I am a dedicated and hardworking professional who thrives on achieving both personal and professional goals. As a devoted father to my son, Luca, I find immense motivation in setting an example of perseverance, commitment, and balance. My son inspires me every day to be the best version of myself, both at work and in life.</p>
+        <p>I am a dedicated and hardworking professional who thrives on achieving both personal and professional goals. As a devoted father. I find immense motivation in setting an example of perseverance, commitment, and balance. My son inspires me every day to be the best version of myself, both at work and in life.</p>
 
         <p>Outside of my professional endeavors, I am deeply passionate about fitness. I am an avid weightlifter and marathon runner, constantly challenging myself to push boundaries and improve. Whether I’m training for a new personal best in the gym or crossing the finish line of a race, I bring the same level of discipline, resilience, and focus that I apply to my career.</p>
 
