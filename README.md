@@ -166,7 +166,7 @@
 
         <p>Outside of my professional endeavors, I am deeply passionate about fitness. I am an avid weightlifter and marathon runner, constantly challenging myself to push boundaries and improve. Whether I’m training for a new personal best in the gym or crossing the finish line of a race, I bring the same level of discipline, resilience, and focus that I apply to my career.</p>
 
-        <p>I believe in giving my all to everything I do and value hard work, consistency, and a positive outlook. With a strong sense of purpose and drive, I strive to balance my personal aspirations with professional excellence, always keeping my family and goals at the heart of everything I pursue.</p>
+        <p>I believe in giving my all to everything I do and value hard work, consistency, and a positive outlook. With a strong sense of purpose and drive, I strive to balance my personal aspirations with professional excellence, always keeping my family and goals at the heart of everything I pursue.
         </div>
     </section>
 
