@@ -107,11 +107,8 @@ Orchestrated cross-functional teamwork: to collaborate with other departments to
 Created 11 position titles by forecasting local labor demand, pricing roles with skills on market trends
 
 </p>
-
-            </div>
         </div>
     </section>
-
     <section id="education">
         <div class="container">
             <h2>Education</h2>
