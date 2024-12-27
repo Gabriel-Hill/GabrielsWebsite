@@ -97,7 +97,9 @@
         ul {
             list-style: none;
             padding: 0;
-            margin: 0;
+            margin: 0 auto;
+            text-align: left;
+            max-width: 600px;
         }
 
         ul li {
@@ -106,6 +108,7 @@
             padding: 15px;
             border-radius: 5px;
             transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+            text-align: center;
         }
 
         ul li:hover {
@@ -241,4 +244,3 @@
         <p>&copy; 2024 Gabe Hill. All rights reserved. | <a href="#">Back to top</a></p>
     </footer>
 </body>
-</html>
