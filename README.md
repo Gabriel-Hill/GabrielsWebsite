@@ -217,19 +217,19 @@
         </div>
     </section>
 
-    <section id="skills">
-        <div class="container">
-            <h2>Skills</h2>
-            <ul>
-                <li>Compensation Analysis</li>
-                <li>Data Analytics</li>
-                <li>Employee Relations</li>
-                <li>HR Compliance</li>
-                <li>Communication and Mediation</li>
-                <li>Proficiency in Excel, PowerPoint, and HRIS systems</li>
-            </ul>
-        </div>
-    </section>
+<section id="skills">
+    <div class="container">
+         <h2>Skills</h2>
+         <ul>
+            <li>Compensation Analysis</li>
+              <li>Data Analytics</li>
+             <li>Employee Relations</li>
+             <li>HR Compliance</li>
+            <li>Communication and Mediation</li>
+            <li>Proficiency in Excel, PowerPoint, and HRIS systems</li>
+         </ul>
+    </div>
+  </section>
 
     <section id="contact">
         <div class="container">
