@@ -120,3 +120,34 @@ Created 11 position titles by forecasting local labor demand, pricing roles with
                 <p>Bachelor of Science in Human Resource Development</p>
                 <p>Graduated: December 2023 | GPA: 3.7</p>
             </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>Compensation Analysis</li>
+                <li>Data Analytics</li>
+                <li>Employee Relations</li>
+                <li>HR Compliance</li>
+                <li>Communication and Mediation</li>
+                <li>Proficiency in Excel, PowerPoint, and HRIS systems</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: Ghilltx12@gmail.com</p>
+            <p>Phone: (123) 456-7890</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/gabehill">linkedin.com/in/gabehill</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Gabe Hill. All rights reserved.</p>
+    </footer>
+</body>
+</html>
