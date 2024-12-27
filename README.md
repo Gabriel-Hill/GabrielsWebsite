@@ -141,7 +141,7 @@ Created 11 position titles by forecasting local labor demand, pricing roles with
         <div class="container">
             <h2>Contact</h2>
             <p>Email: Ghilltx12@gmail.com</p>
-            <p>Phone: (123) 456-7890</p>
+            <p>Phone: (469)667-3021</p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/gabehill">linkedin.com/in/gabehill</a></p>
         </div>
     </section>
