@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -156,7 +155,7 @@
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <p>Hello! I'm Gabe Hill, a dedicated Compensation Analyst with a Bachelor of Science in Human Resource Development from Texas A&M University. I have a passion for optimizing employee compensation strategies and fostering organizational growth. Let me help your company thrive!</p>
+            <p>Hello! I'm Gabe Hill, a dedicated Compensation Analyst with a Bachelor of Science in Human Resource Development from Texas A&M University. I have a passion for optimizing employee compensation strategies and fostering organizational growth. My expertise lies in problem-solving, where I leverage our company's solutions with a keen awareness of strategic alignment and the competitive landscape. Passionate about supporting and serving in a Human Resources and operations capacity, my goal is to contribute to the comprehensive success of our leadership team through traditional organizational performance plans.</p>
         </div>
     </section>
 
