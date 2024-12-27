@@ -168,11 +168,11 @@
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <p>I am a dedicated and hardworking professional who thrives on achieving both personal and professional goals. As a devoted father, I find immense motivation in setting an example of perseverance, commitment, and balance. My son inspires me every day to be the best version of myself, both at work and in life.</p>
+            <p>I am a dedicated and hardworking individual who thrives on achieving both personal and professional goals. As a devoted father, I find immense motivation in setting an example of perseverance, commitment, and balance. My son inspires me every day to be the best version of myself, both at work and in life.</p>
 
-            <p>Outside of my professional endeavors, I am deeply passionate about fitness. I am an avid weightlifter and marathon runner, constantly challenging myself to push boundaries and improve. Whether I’m training for a new personal best in the gym or crossing the finish line of a race, I bring the same level of discipline, resilience, and focus that I apply to my career.</p>
+            <p>Outside of my professional endeavors, I am deeply passionate about fitness. I am an active weightlifter and marathon runner, constantly challenging myself to push boundaries and improve. Whether I’m training for a new personal best or crossing the finish line of a race, I bring the same level of discipline, resilience, and focus that I apply to my career.</p>
 
-            <p>I believe in giving my all to everything I do and value hard work, consistency, and a positive outlook. With a strong sense of purpose and drive, I strive to balance my personal aspirations with professional excellence, always keeping my family and goals at the heart of everything I pursue.</p>
+            <p>I believe in giving my all to everything I do and value hard work, consistency, and a positive outlook. With a strong sense of purpose and drive, I strive to balance my aspirations with professional excellence, always trying my best at everything I pursue.</p>
         </div>
     </section>
 
@@ -220,14 +220,14 @@
 <section id="skills">
     <div class="container">
          <h2>Skills</h2>
-         <ul>
-            <li>Compensation Analysis</li>
-              <li>Data Analytics</li>
-             <li>Employee Relations</li>
-             <li>HR Compliance</li>
-            <li>Communication and Mediation</li>
-            <li>Proficiency in Excel, PowerPoint, and HRIS systems</li>
-         </ul>
+        <ul>
+          <li>Compensation Analysis</li>
+          <li>Data Analytics</li>
+          <li>Employee Relations</li>
+          <li>HR Compliance</li>
+          <li>Communication and Mediation</li>
+          <li>Proficiency in Excel, PowerPoint, and HRIS systems</li>
+        </ul>
     </div>
   </section>
 
